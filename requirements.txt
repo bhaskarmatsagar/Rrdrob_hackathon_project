@@ -1,0 +1,14 @@
+# REDROB Recruit Intelligence — Pipeline & UI Dependencies
+pydantic>=2
+pydantic-settings>=2
+pyyaml>=6
+python-dateutil>=2.8
+orjson>=3.9
+pytest>=8
+typer>=0.12
+
+# Streamlit Frontend & Analytics
+streamlit>=1.30.0
+pandas>=2.0.0
+plotly>=5.18.0
+numpy>=1.24.0
